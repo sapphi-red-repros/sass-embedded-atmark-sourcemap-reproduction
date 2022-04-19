@@ -1,4 +1,5 @@
 @import './@dir/bar.scss';
+@import './%40dir/bar.scss';
 
 .foo {
   color: red;
