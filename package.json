@@ -1,0 +1,16 @@
+{
+  "name": "sass-embedded-atmark-sourcemap-reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sapphi-red",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "sass": "^1.50.1",
+    "sass-embedded": "^1.50.1"
+  }
+}
